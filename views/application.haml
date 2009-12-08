@@ -1,0 +1,36 @@
+!!! Strict
+%html{html_attrs('en-en')}
+  %head
+    %meta{:'http-equiv' => "Content-Type", :content => "text/html; charset=utf-8"}
+    %meta{:name => "lang", :content => "en"}
+    %title Блоговод
+    %link{:href=>'/screen.css', :rel => 'stylesheet', :media => "screen", :type => "text/css"}
+    %link{:href=>'/main.css', :rel => 'stylesheet', :media => "screen", :type => "text/css"}
+    %script{:type => "text/javascript", :src => "/jquery.min.js"}
+    %script{:type => "text/javascript", :src => "/site.js"}
+  %body
+    .container
+
+      #header.span-25.last
+        .span-10
+          %a{:href=>'/',:title=>'blogovod'}
+            %img{:src=>'/images/logo.png',:wight=>390,:height=>88,:alt=>'blogovod'}
+        #header-right.span-15.last
+          #hr_search.span-15.last
+            %form{:method=>'get',:action=>'/search'}
+              %input#search-field.blur{:class=>'blur',:type=>'text',:title=>'search',:size=>'24',:name=>'q'}
+              %input{:type=>'submit',:value=>'Search'}
+          #hr_bottom.span-15.last
+            %img#tr_corner{:src=>'/images/tr_corner.png',:height=>'33',:width=>'26',:alt=>''}
+
+      #content.span-25.last
+        #leftcol.span-1 &nbsp;
+        #main.span-24.last= yield
+
+      #footer.span-25.last
+        #bottom-line.span-25.last
+          %img#bl_corner{:src=>'/images/bl_corner.png',:height=>'26',:width=>'26',:alt=>''}
+          %img#br_corner{:src=>'/images/br_corner.png',:height=>'26',:width=>'26',:alt=>''}
+        %div &nbsp;
+
+    = partial :_analytics

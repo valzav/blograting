@@ -1,0 +1,9 @@
+#!/bin/sh
+case $RACK_ENV in
+  production)
+    mysql -u root blogovod_prod
+    ;;
+  *)
+    mysql -u root blogovod_dev
+    ;;
+esac

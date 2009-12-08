@@ -1,0 +1,11 @@
+%h1 Рейтинг блогов. Топ 100 записей.
+%p.small При составлении рейтингов использовались данные, полученные с помощью Яндекс.Поиска по блогам. Яндекс не имеет отношения к методике составления самих рейтингов
+
+#posts.span-14
+  %ul#posts-list
+    - for p in @posts
+      %li.post
+        %h4= link_to(p.title,p.link)
+        = p.text
+        .postinfo
+          %span= "Опубликовал #{link_to(p.ppb_username,p.author)}  #{display_post_date(p.pubDate)}, просмотров #{p.visits24}"

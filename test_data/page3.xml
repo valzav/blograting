@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:yablogs="urn:yandex-blogs" version="2.0">
+  <channel>
+    <link>http://blogs.yandex.ru/</link>
+    <title>API статистики записей Поиска по блогам</title>
+    <image>
+      <url>http://img.yandex.net/i/logo100x43.png</url>
+      <link>http://blogs.yandex.ru/</link>
+      <title>API статистики записей Поиска по блогам</title>
+      <width>100</width>
+      <height>43</height>
+    </image>
+    <ttl>5</ttl>
+    <generator>blogs.yandex.ru</generator>
+    <webMaster>support@blogs.yandex.ru</webMaster>
+    <copyright>noindex</copyright>
+    <description>API статистики записей Поиска по блогам</description>
+    <item>
+      <author>http://blogs.mail.ru/community/otdam_darom/</author>
+      <description/>
+      <link>http://blogs.mail.ru/community/otdam_darom/1666153249C29230.html</link>
+      <pubDate>Sat, 14 Nov 2009 19:00:22 GMT</pubDate>
+      <title>отдам сотовый</title>
+      <yablogs:commenters>0</yablogs:commenters>
+      <yablogs:commenters24>0</yablogs:commenters24>
+      <yablogs:comments>0</yablogs:comments>
+      <yablogs:comments24>0</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>350</yablogs:visits24>
+      <yablogs:ppb_username>Отдам даром!</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://blogs.mail.ru/community/otdam_darom/</author>
+      <description/>
+      <link>http://blogs.mail.ru/community/otdam_darom/18BDA4E07BCB4C98.html</link>
+      <pubDate>Sat, 14 Nov 2009 19:00:22 GMT</pubDate>
+      <title>Много вещей</title>
+      <yablogs:commenters>0</yablogs:commenters>
+      <yablogs:commenters24>0</yablogs:commenters24>
+      <yablogs:comments>0</yablogs:comments>
+      <yablogs:comments24>0</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>580</yablogs:visits24>
+      <yablogs:ppb_username>Отдам даром!</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/rus_mult/</author>
+      <description/>
+      <link>http://community.livejournal.com/rus_mult/24250.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:59:17 GMT</pubDate>
+      <title>"Фабрика Чудес". Фильм 4 "Аниматор" </title>
+      <yablogs:commenters>0</yablogs:commenters>
+      <yablogs:commenters24>0</yablogs:commenters24>
+      <yablogs:comments>0</yablogs:comments>
+      <yablogs:comments24>0</yablogs:comments24>
+      <yablogs:links>3</yablogs:links>
+      <yablogs:links24>3</yablogs:links24>
+      <yablogs:links24weight>2.002</yablogs:links24weight>
+      <yablogs:linksweight>2.002</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>rus_mult</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/ru_politics/</author>
+      <description/>
+      <link>http://community.livejournal.com/ru_politics/25729964.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:57:33 GMT</pubDate>
+      <title>Победа!</title>
+      <yablogs:commenters>36</yablogs:commenters>
+      <yablogs:commenters24>31</yablogs:commenters24>
+      <yablogs:comments>62</yablogs:comments>
+      <yablogs:comments24>57</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>190</yablogs:visits24>
+      <yablogs:ppb_username>ru_politics</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://helend9.ya.ru/</author>
+      <description/>
+      <link>http://helend9.ya.ru/replies.xml?item_no=16795</link>
+      <pubDate>Sat, 14 Nov 2009 18:57:06 GMT</pubDate>
+      <yablogs:commenters>4</yablogs:commenters>
+      <yablogs:commenters24>3</yablogs:commenters24>
+      <yablogs:comments>30</yablogs:comments>
+      <yablogs:comments24>30</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>Елена</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://login-of.livejournal.com/</author>
+      <description/>
+      <link>http://login-of.livejournal.com/386132.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:56:24 GMT</pubDate>
+      <yablogs:commenters>7</yablogs:commenters>
+      <yablogs:commenters24>7</yablogs:commenters24>
+      <yablogs:comments>28</yablogs:comments>
+      <yablogs:comments24>28</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>login_of</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://pobegushka.livejournal.com/</author>
+      <description/>
+      <link>http://pobegushka.livejournal.com/52808.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:55:46 GMT</pubDate>
+      <title>Сегодня</title>
+      <yablogs:commenters>3</yablogs:commenters>
+      <yablogs:commenters24>3</yablogs:commenters24>
+      <yablogs:comments>26</yablogs:comments>
+      <yablogs:comments24>26</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>pobegushka</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://korollleva.livejournal.com/</author>
+      <description/>
+      <link>http://korollleva.livejournal.com/19604.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:54:04 GMT</pubDate>
+      <yablogs:commenters>5</yablogs:commenters>
+      <yablogs:commenters24>3</yablogs:commenters24>
+      <yablogs:comments>26</yablogs:comments>
+      <yablogs:comments24>26</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>korollleva</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://tomka-momka.livejournal.com/</author>
+      <description/>
+      <link>http://tomka-momka.livejournal.com/440000.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:52:31 GMT</pubDate>
+      <title>угадай-ка и посоветуй-ка!</title>
+      <yablogs:commenters>6</yablogs:commenters>
+      <yablogs:commenters24>6</yablogs:commenters24>
+      <yablogs:comments>25</yablogs:comments>
+      <yablogs:comments24>25</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>60</yablogs:visits24>
+      <yablogs:ppb_username>tomka_momka</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/rus_mult/</author>
+      <description/>
+      <link>http://community.livejournal.com/rus_mult/23859.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:51:35 GMT</pubDate>
+      <title>"Фабрика Чудес". Фильм 3 "Художник-постановщик" </title>
+      <yablogs:commenters>0</yablogs:commenters>
+      <yablogs:commenters24>0</yablogs:commenters24>
+      <yablogs:comments>0</yablogs:comments>
+      <yablogs:comments24>0</yablogs:comments24>
+      <yablogs:links>3</yablogs:links>
+      <yablogs:links24>3</yablogs:links24>
+      <yablogs:links24weight>2.002</yablogs:links24weight>
+      <yablogs:linksweight>2.002</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>rus_mult</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/malyshi/</author>
+      <description/>
+      <link>http://community.livejournal.com/malyshi/21081416.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:50:44 GMT</pubDate>
+      <title>SOS!!! Как уберечь младенца от родительского гриппа?</title>
+      <yablogs:commenters>14</yablogs:commenters>
+      <yablogs:commenters24>14</yablogs:commenters24>
+      <yablogs:comments>69</yablogs:comments>
+      <yablogs:comments24>63</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>160</yablogs:visits24>
+      <yablogs:ppb_username>malyshi</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/ru_football/</author>
+      <description/>
+      <link>http://community.livejournal.com/ru_football/6421112.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:48:40 GMT</pubDate>
+      <title>Хохлов травить тут</title>
+      <yablogs:commenters>27</yablogs:commenters>
+      <yablogs:commenters24>22</yablogs:commenters24>
+      <yablogs:comments>79</yablogs:comments>
+      <yablogs:comments24>73</yablogs:comments24>
+      <yablogs:links>1</yablogs:links>
+      <yablogs:links24>1</yablogs:links24>
+      <yablogs:links24weight>1</yablogs:links24weight>
+      <yablogs:linksweight>1</yablogs:linksweight>
+      <yablogs:visits24>30</yablogs:visits24>
+      <yablogs:ppb_username>ru_football</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://gionet.livejournal.com/</author>
+      <description/>
+      <link>http://gionet.livejournal.com/1656692.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:47:50 GMT</pubDate>
+      <title>Наши в городе!</title>
+      <yablogs:commenters>1</yablogs:commenters>
+      <yablogs:commenters24>1</yablogs:commenters24>
+      <yablogs:comments>1</yablogs:comments>
+      <yablogs:comments24>1</yablogs:comments24>
+      <yablogs:links>2</yablogs:links>
+      <yablogs:links24>2</yablogs:links24>
+      <yablogs:links24weight>2</yablogs:links24weight>
+      <yablogs:linksweight>2</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>gionet</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://smooth-monster.livejournal.com/</author>
+      <description/>
+      <link>http://smooth-monster.livejournal.com/5902.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:46:46 GMT</pubDate>
+      <title>Фотографический шабаш... (день третий)</title>
+      <yablogs:commenters>1</yablogs:commenters>
+      <yablogs:commenters24>1</yablogs:commenters24>
+      <yablogs:comments>1</yablogs:comments>
+      <yablogs:comments24>1</yablogs:comments24>
+      <yablogs:links>2</yablogs:links>
+      <yablogs:links24>2</yablogs:links24>
+      <yablogs:links24weight>2</yablogs:links24weight>
+      <yablogs:linksweight>2</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>smooth_monster</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/fragiledaylight/</author>
+      <description/>
+      <link>http://community.livejournal.com/fragiledaylight/14487.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:46:39 GMT</pubDate>
+      <yablogs:commenters>1</yablogs:commenters>
+      <yablogs:commenters24>1</yablogs:commenters24>
+      <yablogs:comments>41</yablogs:comments>
+      <yablogs:comments24>40</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>fragiledaylight</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/poupee_girl/</author>
+      <description/>
+      <link>http://community.livejournal.com/poupee_girl/3067727.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:45:49 GMT</pubDate>
+      <title>Shell Hunt!</title>
+      <yablogs:commenters>1</yablogs:commenters>
+      <yablogs:commenters24>1</yablogs:commenters24>
+      <yablogs:comments>35</yablogs:comments>
+      <yablogs:comments24>34</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>poupee_girl</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://clubs.ya.ru/4611686018427388732/</author>
+      <description/>
+      <link>http://clubs.ya.ru/4611686018427388732/replies.xml?item_no=1656812</link>
+      <pubDate>Sat, 14 Nov 2009 18:43:05 GMT</pubDate>
+      <title>Очень высоко</title>
+      <yablogs:commenters>5</yablogs:commenters>
+      <yablogs:commenters24>5</yablogs:commenters24>
+      <yablogs:comments>35</yablogs:comments>
+      <yablogs:comments24>35</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>Ку на прокачку</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://sabaka-zlaya.livejournal.com/</author>
+      <description/>
+      <link>http://sabaka-zlaya.livejournal.com/51170.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:40:39 GMT</pubDate>
+      <title>Очэрэдноэ йубилейноэ</title>
+      <yablogs:commenters>12</yablogs:commenters>
+      <yablogs:commenters24>11</yablogs:commenters24>
+      <yablogs:comments>28</yablogs:comments>
+      <yablogs:comments24>27</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>30</yablogs:visits24>
+      <yablogs:ppb_username>sabaka_zlaya</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://shinshilo.livejournal.com/</author>
+      <description/>
+      <link>http://shinshilo.livejournal.com/215189.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:39:22 GMT</pubDate>
+      <title>про друзей</title>
+      <yablogs:commenters>8</yablogs:commenters>
+      <yablogs:commenters24>8</yablogs:commenters24>
+      <yablogs:comments>67</yablogs:comments>
+      <yablogs:comments24>67</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>shinshilo</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://unab0mber.livejournal.com/</author>
+      <description/>
+      <link>http://unab0mber.livejournal.com/968858.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:39:00 GMT</pubDate>
+      <title>впрочем, другие варианты принимаются. а за лучший &amp;#8211; инвайт на лепру! (наверное)</title>
+      <yablogs:commenters>31</yablogs:commenters>
+      <yablogs:commenters24>25</yablogs:commenters24>
+      <yablogs:comments>42</yablogs:comments>
+      <yablogs:comments24>37</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>30</yablogs:visits24>
+      <yablogs:ppb_username>unab0mber</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://sovest-ksju.ya.ru/</author>
+      <description/>
+      <link>http://SovEst-Ksju.ya.ru/replies.xml?item_no=41402</link>
+      <pubDate>Sat, 14 Nov 2009 18:38:05 GMT</pubDate>
+      <title>Canon EOS 50D Body</title>
+      <yablogs:commenters>3</yablogs:commenters>
+      <yablogs:commenters24>2</yablogs:commenters24>
+      <yablogs:comments>48</yablogs:comments>
+      <yablogs:comments24>40</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>SovEst «Яинеск»</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://brmr.livejournal.com/</author>
+      <description/>
+      <link>http://brmr.livejournal.com/1228330.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:37:57 GMT</pubDate>
+      <title>ну вот </title>
+      <yablogs:commenters>9</yablogs:commenters>
+      <yablogs:commenters24>8</yablogs:commenters24>
+      <yablogs:comments>60</yablogs:comments>
+      <yablogs:comments24>52</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>brmr</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/newdrama/</author>
+      <description/>
+      <link>http://community.livejournal.com/newdrama/1925067.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:36:37 GMT</pubDate>
+      <title>Фабулическая радость жизни Михаила Угарова</title>
+      <yablogs:commenters>1</yablogs:commenters>
+      <yablogs:commenters24>0</yablogs:commenters24>
+      <yablogs:comments>1</yablogs:comments>
+      <yablogs:comments24>0</yablogs:comments24>
+      <yablogs:links>2</yablogs:links>
+      <yablogs:links24>2</yablogs:links24>
+      <yablogs:links24weight>2</yablogs:links24weight>
+      <yablogs:linksweight>2</yablogs:linksweight>
+      <yablogs:visits24>60</yablogs:visits24>
+      <yablogs:ppb_username>newdrama</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://cinemabizarre-fanclub.com/</author>
+      <description/>
+      <link>http://cinemabizarre-fanclub.com/post114476087/</link>
+      <pubDate>Sat, 14 Nov 2009 18:36:08 GMT</pubDate>
+      <title>Запись Ванессы на майспэйсе</title>
+      <yablogs:commenters>20</yablogs:commenters>
+      <yablogs:commenters24>16</yablogs:commenters24>
+      <yablogs:comments>35</yablogs:comments>
+      <yablogs:comments24>33</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>_Cinema_Bizarre_</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://litvar.livejournal.com/</author>
+      <description/>
+      <link>http://litvar.livejournal.com/219742.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:35:05 GMT</pubDate>
+      <title>Вспомни себя, лев!</title>
+      <yablogs:commenters>14</yablogs:commenters>
+      <yablogs:commenters24>11</yablogs:commenters24>
+      <yablogs:comments>36</yablogs:comments>
+      <yablogs:comments24>34</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>30</yablogs:visits24>
+      <yablogs:ppb_username>litvar</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://cake-and-ale.ya.ru/</author>
+      <description/>
+      <link>http://cake-and-ale.ya.ru/replies.xml?item_no=25933</link>
+      <pubDate>Sat, 14 Nov 2009 18:34:08 GMT</pubDate>
+      <yablogs:commenters>9</yablogs:commenters>
+      <yablogs:commenters24>9</yablogs:commenters24>
+      <yablogs:comments>42</yablogs:comments>
+      <yablogs:comments24>41</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>Aнастасия</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/alchemic_dreams/</author>
+      <description/>
+      <link>http://community.livejournal.com/alchemic_dreams/39653.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:33:55 GMT</pubDate>
+      <title>[30] House 6x07 (dance scene)</title>
+      <yablogs:commenters>1</yablogs:commenters>
+      <yablogs:commenters24>1</yablogs:commenters24>
+      <yablogs:comments>29</yablogs:comments>
+      <yablogs:comments24>28</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>alchemic_dreams</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://burmatoff.livejournal.com/</author>
+      <description/>
+      <link>http://burmatoff.livejournal.com/604829.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:33:22 GMT</pubDate>
+      <title>как накалялись страсти</title>
+      <yablogs:commenters>0</yablogs:commenters>
+      <yablogs:commenters24>0</yablogs:commenters24>
+      <yablogs:comments>0</yablogs:comments>
+      <yablogs:comments24>0</yablogs:comments24>
+      <yablogs:links>2</yablogs:links>
+      <yablogs:links24>2</yablogs:links24>
+      <yablogs:links24weight>0.004</yablogs:links24weight>
+      <yablogs:linksweight>0.004</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>burmatoff</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://soodni.livejournal.com/</author>
+      <description/>
+      <link>http://soodni.livejournal.com/78766.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:33:12 GMT</pubDate>
+      <title>с 500</title>
+      <yablogs:commenters>5</yablogs:commenters>
+      <yablogs:commenters24>5</yablogs:commenters24>
+      <yablogs:comments>28</yablogs:comments>
+      <yablogs:comments24>28</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>soodni</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/man_woman/</author>
+      <description/>
+      <link>http://community.livejournal.com/man_woman/9159852.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:32:34 GMT</pubDate>
+      <title>Про понты и женское счастье.</title>
+      <yablogs:commenters>21</yablogs:commenters>
+      <yablogs:commenters24>19</yablogs:commenters24>
+      <yablogs:comments>44</yablogs:comments>
+      <yablogs:comments24>44</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>160</yablogs:visits24>
+      <yablogs:ppb_username>man_woman</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://maria-gromakova.livejournal.com/</author>
+      <description/>
+      <link>http://maria-gromakova.livejournal.com/413096.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:31:12 GMT</pubDate>
+      <title>Надеюсь, это будет последний пост на подобную тему</title>
+      <yablogs:commenters>42</yablogs:commenters>
+      <yablogs:commenters24>37</yablogs:commenters24>
+      <yablogs:comments>82</yablogs:comments>
+      <yablogs:comments24>75</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>160</yablogs:visits24>
+      <yablogs:ppb_username>maria_gromakova</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/ru_auto/</author>
+      <description/>
+      <link>http://community.livejournal.com/ru_auto/20787827.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:31:00 GMT</pubDate>
+      <yablogs:commenters>18</yablogs:commenters>
+      <yablogs:commenters24>17</yablogs:commenters24>
+      <yablogs:comments>47</yablogs:comments>
+      <yablogs:comments24>46</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>260</yablogs:visits24>
+      <yablogs:ppb_username>ru_auto</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/rus_mult/</author>
+      <description/>
+      <link>http://community.livejournal.com/rus_mult/23741.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:30:56 GMT</pubDate>
+      <title>"Фабрика Чудес", Фильм 2 "Автор сценария" </title>
+      <yablogs:commenters>0</yablogs:commenters>
+      <yablogs:commenters24>0</yablogs:commenters24>
+      <yablogs:comments>0</yablogs:comments>
+      <yablogs:comments24>0</yablogs:comments24>
+      <yablogs:links>3</yablogs:links>
+      <yablogs:links24>3</yablogs:links24>
+      <yablogs:links24weight>2.002</yablogs:links24weight>
+      <yablogs:linksweight>2.002</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>rus_mult</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://www.liveinternet.ru/users/2812854/</author>
+      <description/>
+      <link>http://www.liveinternet.ru/users/2812854/post114475598/</link>
+      <pubDate>Sat, 14 Nov 2009 18:26:10 GMT</pubDate>
+      <title>Моя пятница и суббота. Одни буквы! :о)</title>
+      <yablogs:commenters>2</yablogs:commenters>
+      <yablogs:commenters24>2</yablogs:commenters24>
+      <yablogs:comments>2</yablogs:comments>
+      <yablogs:comments24>2</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>420</yablogs:visits24>
+      <yablogs:ppb_username>Сильви_Сильво</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/otdam_darom/</author>
+      <description/>
+      <link>http://community.livejournal.com/otdam_darom/16651171.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:24:02 GMT</pubDate>
+      <title>мебель совецкой эпохи</title>
+      <yablogs:commenters>4</yablogs:commenters>
+      <yablogs:commenters24>4</yablogs:commenters24>
+      <yablogs:comments>4</yablogs:comments>
+      <yablogs:comments24>4</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>350</yablogs:visits24>
+      <yablogs:ppb_username>otdam_darom</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://ksana-popova.livejournal.com/</author>
+      <description/>
+      <link>http://ksana-popova.livejournal.com/43844.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:23:26 GMT</pubDate>
+      <title>унылое(((</title>
+      <yablogs:commenters>15</yablogs:commenters>
+      <yablogs:commenters24>14</yablogs:commenters24>
+      <yablogs:comments>74</yablogs:comments>
+      <yablogs:comments24>73</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>30</yablogs:visits24>
+      <yablogs:ppb_username>ksana_popova</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://ddzudi.ya.ru/</author>
+      <description/>
+      <link>http://Ddzudi.ya.ru/replies.xml?item_no=6560</link>
+      <pubDate>Sat, 14 Nov 2009 18:23:06 GMT</pubDate>
+      <yablogs:commenters>2</yablogs:commenters>
+      <yablogs:commenters24>2</yablogs:commenters24>
+      <yablogs:comments>26</yablogs:comments>
+      <yablogs:comments24>26</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>Джуди aka Pixarra</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://clubs.ya.ru/4611686018427403155/</author>
+      <description/>
+      <link>http://clubs.ya.ru/4611686018427403155/replies.xml?item_no=21737</link>
+      <pubDate>Sat, 14 Nov 2009 18:22:07 GMT</pubDate>
+      <title>Была не всегда</title>
+      <yablogs:commenters>3</yablogs:commenters>
+      <yablogs:commenters24>1</yablogs:commenters24>
+      <yablogs:comments>3</yablogs:comments>
+      <yablogs:comments24>3</yablogs:comments24>
+      <yablogs:links>2</yablogs:links>
+      <yablogs:links24>2</yablogs:links24>
+      <yablogs:links24weight>1.5</yablogs:links24weight>
+      <yablogs:linksweight>1.5</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>В   пространстве                            Встречи   </yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://www.liveinternet.ru/users/yamato_kaze/</author>
+      <description/>
+      <link>http://www.liveinternet.ru/users/yamato_kaze/post114475388/</link>
+      <pubDate>Sat, 14 Nov 2009 18:22:06 GMT</pubDate>
+      <title>.подборка KHR.</title>
+      <yablogs:commenters>1</yablogs:commenters>
+      <yablogs:commenters24>1</yablogs:commenters24>
+      <yablogs:comments>48</yablogs:comments>
+      <yablogs:comments24>48</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>Yamato_Kaze</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://a-xuili.livejournal.com/</author>
+      <description/>
+      <link>http://a-xuili.livejournal.com/5449217.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:21:57 GMT</pubDate>
+      <title>вопрос дня.</title>
+      <yablogs:commenters>5</yablogs:commenters>
+      <yablogs:commenters24>5</yablogs:commenters24>
+      <yablogs:comments>59</yablogs:comments>
+      <yablogs:comments24>49</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>a_xuili</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://presvitergrig.livejournal.com/</author>
+      <description/>
+      <link>http://presvitergrig.livejournal.com/137543.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:21:37 GMT</pubDate>
+      <title>Ответный френдоцид</title>
+      <yablogs:commenters>24</yablogs:commenters>
+      <yablogs:commenters24>22</yablogs:commenters24>
+      <yablogs:comments>63</yablogs:comments>
+      <yablogs:comments24>47</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>30</yablogs:visits24>
+      <yablogs:ppb_username>presvitergrig</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/ru_football/</author>
+      <description/>
+      <link>http://community.livejournal.com/ru_football/6420787.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:20:36 GMT</pubDate>
+      <yablogs:commenters>42</yablogs:commenters>
+      <yablogs:commenters24>39</yablogs:commenters24>
+      <yablogs:comments>136</yablogs:comments>
+      <yablogs:comments24>133</yablogs:comments24>
+      <yablogs:links>1</yablogs:links>
+      <yablogs:links24>1</yablogs:links24>
+      <yablogs:links24weight>1</yablogs:links24weight>
+      <yablogs:linksweight>1</yablogs:linksweight>
+      <yablogs:visits24>450</yablogs:visits24>
+      <yablogs:ppb_username>ru_football</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://blogs.mail.ru/community/reno/</author>
+      <description/>
+      <link>http://blogs.mail.ru/community/reno/211BC8CC68328419.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:20:29 GMT</pubDate>
+      <title>ВАГРИЧ БАХЧАНЯН</title>
+      <yablogs:commenters>0</yablogs:commenters>
+      <yablogs:commenters24>0</yablogs:commenters24>
+      <yablogs:comments>0</yablogs:comments>
+      <yablogs:comments24>0</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>1900</yablogs:visits24>
+      <yablogs:ppb_username>РЕНО ЛОГАН</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://blogs.mail.ru/community/reno/</author>
+      <description/>
+      <link>http://blogs.mail.ru/community/reno/5A2CFEB78B8F24B2.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:20:29 GMT</pubDate>
+      <title>ВЫСТАВКА КАЛЛИГРАФИИ 2009</title>
+      <yablogs:commenters>0</yablogs:commenters>
+      <yablogs:commenters24>0</yablogs:commenters24>
+      <yablogs:comments>0</yablogs:comments>
+      <yablogs:comments24>0</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>1500</yablogs:visits24>
+      <yablogs:ppb_username>РЕНО ЛОГАН</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/rus_mult/</author>
+      <description/>
+      <link>http://community.livejournal.com/rus_mult/23424.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:18:21 GMT</pubDate>
+      <title>"Фабрика чудес": пролог и о "Режиссерах-мультипликаторах" </title>
+      <yablogs:commenters>1</yablogs:commenters>
+      <yablogs:commenters24>1</yablogs:commenters24>
+      <yablogs:comments>1</yablogs:comments>
+      <yablogs:comments24>1</yablogs:comments24>
+      <yablogs:links>3</yablogs:links>
+      <yablogs:links24>3</yablogs:links24>
+      <yablogs:links24weight>2.002</yablogs:links24weight>
+      <yablogs:linksweight>2.002</yablogs:linksweight>
+      <yablogs:visits24>60</yablogs:visits24>
+      <yablogs:ppb_username>rus_mult</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://bearsey.livejournal.com/</author>
+      <description/>
+      <link>http://bearsey.livejournal.com/68528.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:17:49 GMT</pubDate>
+      <title>бля.</title>
+      <yablogs:commenters>5</yablogs:commenters>
+      <yablogs:commenters24>3</yablogs:commenters24>
+      <yablogs:comments>46</yablogs:comments>
+      <yablogs:comments24>40</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>30</yablogs:visits24>
+      <yablogs:ppb_username>bearsey</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://zina-z.livejournal.com/</author>
+      <description/>
+      <link>http://zina-z.livejournal.com/87308.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:14:36 GMT</pubDate>
+      <yablogs:commenters>9</yablogs:commenters>
+      <yablogs:commenters24>8</yablogs:commenters24>
+      <yablogs:comments>28</yablogs:comments>
+      <yablogs:comments24>28</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>zina_z</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://shtuky.livejournal.com/</author>
+      <description/>
+      <link>http://shtuky.livejournal.com/33552.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:13:33 GMT</pubDate>
+      <title>Выиграй штуку гривен за лучшую улыбку!</title>
+      <yablogs:commenters>3</yablogs:commenters>
+      <yablogs:commenters24>3</yablogs:commenters24>
+      <yablogs:comments>3</yablogs:comments>
+      <yablogs:comments24>3</yablogs:comments24>
+      <yablogs:links>2</yablogs:links>
+      <yablogs:links24>2</yablogs:links24>
+      <yablogs:links24weight>2</yablogs:links24weight>
+      <yablogs:linksweight>2</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>shtuky</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/little_details/</author>
+      <description/>
+      <link>http://community.livejournal.com/little_details/2482936.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:13:17 GMT</pubDate>
+      <title>USA High School subjects</title>
+      <yablogs:commenters>1</yablogs:commenters>
+      <yablogs:commenters24>1</yablogs:commenters24>
+      <yablogs:comments>37</yablogs:comments>
+      <yablogs:comments24>36</yablogs:comments24>
+      <yablogs:links>0</yablogs:links>
+      <yablogs:links24>0</yablogs:links24>
+      <yablogs:links24weight>0</yablogs:links24weight>
+      <yablogs:linksweight>0</yablogs:linksweight>
+      <yablogs:visits24>0</yablogs:visits24>
+      <yablogs:ppb_username>little_details</yablogs:ppb_username>
+    </item>
+    <item>
+      <author>http://community.livejournal.com/ru_marazm/</author>
+      <description/>
+      <link>http://community.livejournal.com/ru_marazm/1933411.html</link>
+      <pubDate>Sat, 14 Nov 2009 18:12:39 GMT</pubDate>
+      <yablogs:commenters>32</yablogs:commenters>
+      <yablogs:commenters24>25</yablogs:commenters24>
+      <yablogs:comments>35</yablogs:comments>
+      <yablogs:comments24>28</yablogs:comments24>
+      <yablogs:links>1</yablogs:links>
+      <yablogs:links24>1</yablogs:links24>
+      <yablogs:links24weight>1</yablogs:links24weight>
+      <yablogs:linksweight>1</yablogs:linksweight>
+      <yablogs:visits24>290</yablogs:visits24>
+      <yablogs:ppb_username>ru_marazm</yablogs:ppb_username>
+    </item>
+  </channel>
+</rss>
