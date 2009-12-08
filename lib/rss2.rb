@@ -1,8 +1,8 @@
 class Rss2
-  attr_reader :path
+  attr_reader :path, :log
 
-  def initialize(path)
-    @path = path
+  def initialize(path, logger)
+    @path, @log = path, logger
   end
 
   def open

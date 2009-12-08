@@ -40,9 +40,8 @@ class Feeder < Daemon
   def task
     @debug_mode = (@args[1] == "debug")
     if !@debug_mode
-      for p in 1..120
-        #http://blogs.yandex.ru/faq/entriesapi
-        feed = Rss2.new("http://blogs.yandex.ru/entriesapi?p=#{p}")
+      for p in 1..5
+        feed = Rss2.new("http://blogs.yandex.ru/entriesapi?p=#{p}",log)
         break unless feed.open
         items = process_feed(feed)
         break if items < 50
@@ -50,7 +49,7 @@ class Feeder < Daemon
       end
     else # debug mode - using local data
       for p in 1..3
-        feed = Rss2.new("data/page#{p}.xml")
+        feed = Rss2.new("data/page#{p}.xml",log)
         puts "-------------- #{feed.path}"
         break unless feed.open
         process_feed(feed)
