@@ -49,7 +49,7 @@ class Feeder < Daemon
       end
     else # debug mode - using local data
       for p in 1..3
-        feed = Rss2.new("data/page#{p}.xml",log)
+        feed = Rss2.new("test_data/page#{p}.xml",log)
         puts "-------------- #{feed.path}"
         break unless feed.open
         process_feed(feed)

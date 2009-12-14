@@ -33,6 +33,8 @@ class Platform < Sequel::Model(DB)
       data = curl.body_str
       if curl.header_str =~ /charset=[\w\-]+1251/mi
         data = Iconv.conv("UTF-8", "CP1251", data)
+      elsif  curl.header_str =~ /charset=KOI8/mi
+        data = Iconv.conv("UTF-8", "KOI8-R", data)
       end
     else # local file for testing purpose
       data = File.read(post_url)
@@ -43,40 +45,10 @@ class Platform < Sequel::Model(DB)
     return nil
   end
 
-  CUT_LEN1 = 500
-  CUT_LEN2 = 600
-  CUT_LEN3 = 700
-
   def cut_post_preview(doc,selector)
     t = doc.select(selector)
-    return "" if t.nil?
-    # now let's cut it in a smart way
-    last_tag = ""
-    in_tag = false
-    counter = 0
-    out = ""
-    for i in 0...t.length
-      # TODO: utf-8 support
-      c = t[i].chr
-      if c == '<'
-        in_tag = true
-        last_tag = ""
-      elsif c == '>'
-        in_tag = false
-        out += "<#{last_tag}>" if last_tag =~ /^\/?[ibpa]{1}(\s|$)/
-        break if counter >= CUT_LEN1 && last_tag =~ /\//
-      else
-        if in_tag
-          last_tag += c
-        else
-          counter += 1
-          out += c
-          break if counter >= CUT_LEN3 && c == " "
-          break if counter >= CUT_LEN2 && (c == "." || c == ",")
-        end
-      end
-    end
-    #puts [i,t.length-1]
-    return out
+    return "" if t.nil? || t.empty?
+    return t if t.length < 600
+    return  t[/.{300,500}[.,?]/u] || t[/.{0,500}/u]
   end
 end
